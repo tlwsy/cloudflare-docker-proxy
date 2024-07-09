@@ -17,7 +17,7 @@ name = "cloudflare-docker-proxy"
 #   { pattern = "quay.n2n2.club", custom_domain = true },
 #   { pattern = "gcr.n2n2.club", custom_domain = true },
 #   { pattern = "k8s-gcr.n2n2.club", custom_domain = true },
-#   { pattern = "k8s.n2n2.clubo", custom_domain = true },
+#   { pattern = "k8s.n2n2.club", custom_domain = true },
 #   { pattern = "ghcr.n2n2.club", custom_domain = true },
 #   { pattern = "cloudsmith.n2n2.club", custom_domain = true },
 # ]
